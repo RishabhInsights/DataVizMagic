@@ -9,7 +9,7 @@ annual members
 ## Report
 The detailed report, including all codes, data descriptions, steps taken for cleaning, analyzing, and visualizing the dataset, is available in the following PDF file:
 
-[final_report_bike_sharing](https://github.com/RishabhInsights/DataVizMagic/blob/main/final_report_bike_sharing.pdf)
+[final_report_bike_sharing](https://github.com/RishabhInsights/DataVizMagic/blob/main/Bike_report_2.pdf)
 
 ## Key Features
 - Data cleaning and preprocessing steps
@@ -18,4 +18,4 @@ The detailed report, including all codes, data descriptions, steps taken for cle
 - Conclusions and recommendations
 
 ## Usage
-To view the full analysis and findings, please refer to the [final_report_bike_sharing](https://github.com/RishabhInsights/DataVizMagic/blob/main/final_report_bike_sharing.pdf).
+To view the full analysis and findings, please refer to the [final_report_bike_sharing](https://github.com/RishabhInsights/DataVizMagic/blob/main/Bike_report_2.pdf)).
