@@ -18,4 +18,4 @@ The detailed report, including all codes, data descriptions, steps taken for cle
 - Conclusions and recommendations
 
 ## Usage
-To view the full analysis and findings, please refer to the [final_report_bike_sharing](https://github.com/RishabhInsights/DataVizMagic/blob/main/Bike_report_2.pdf)).
+To view the full analysis and findings, please refer to the [final_report_bike_sharing](https://github.com/RishabhInsights/DataVizMagic/blob/main/Bike_report_2.pdf).
